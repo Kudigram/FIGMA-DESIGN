@@ -618,3 +618,185 @@ font-family: 'Roboto', sans-serif;
     background-color: #fda344;
     color: #000000;
 }
+
+/* Laptop L */
+@media (max-width:1075px) {
+    .text-holder>h2 {
+        padding-left: 131px;
+    }
+
+    .register>h2 {
+        margin-left: 140px;
+    }
+
+    .register>.border {
+        margin: 30px 0 30px 253px;
+    }
+
+    .register>p {
+        margin-left: 142px;
+    }
+
+    .register>button {
+        margin-left: 210px;
+    }
+
+    .border {
+        margin: 31px 0 23px 243px;
+    }
+
+    .student-info>h4 {
+        padding-bottom: 30px;
+    }
+
+    .text-content {
+        top: 38px;
+    }
+
+    .closing-text {
+        width: 67%;
+    }
+
+
+}
+
+/* Laptop */
+@media (max-width: 1024px) {
+
+    .register>h2 {
+        margin-left: 123px;
+    }
+
+    .register>.border {
+        margin: 30px 0 30px 231px;
+    }
+
+    .register>p {
+        margin-left: 117px;
+    }
+
+    .register>button {
+        margin-left: 187px;
+    }
+
+    .potter-text-content>button {
+        padding: 15px;
+        margin-bottom: 90px;
+    }
+
+    .potter-text-content>p {
+        padding-bottom: 19px;
+    }
+
+.image-holder {
+    padding-top: 20px;
+}
+
+
+}
+
+/* Tablet Device */
+@media (max-width: 844px) {
+    .header-text>h1 {
+        font-size: 39px;
+        padding: 80px 0 18px 120px;
+    }
+
+    .text-holder>h2 {
+        padding-left: 64px;
+    }
+
+    .border {
+    margin: 18px 0 18px 157px;
+}
+
+
+    .potter-text-content>button {
+        padding: 15px 16px;
+    }
+
+    .register>h2 {
+        margin-left: 68px;
+    }
+
+    .register>.border {
+        margin: 30px 0 30px 185px;
+}
+
+.register>p {
+    margin-left: 35px;
+}
+
+.register>button {
+    margin-left: 123px;
+}
+
+.potter-text-content>h2 {
+    padding-top: 97px;
+    font-size: 32px;
+}
+
+.potter-text-content-1>p {
+    font-size: 0.9rem;
+}
+
+.potter-text-content-1>button {
+    padding: 7px 21px;
+}
+
+.potter-text-content>p {
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
+.text-box {
+    width: 47%;
+}
+
+.student-info {
+    width: 87%;
+}
+
+.student-info>h2 {
+    padding-top: 10px;
+}
+
+.student-info>h4 {
+    padding-bottom: 9px;
+}
+
+.text-content {
+    left: 139px;
+    top: 37px;
+}
+
+.closing-text > .border {
+    left: 137px;
+}
+
+.closing-text {
+    width: 88%;
+    margin-top: 20px;
+}
+
+.tri-text {
+    padding-top: 10px;
+}
+
+.text {
+    margin-bottom: 28px;
+}
+.text>h3 {
+    padding: 17px 0 17px 0;
+}
+
+.image-holder {
+    padding-top: 13px;
+}
+
+.sales-content >h2{
+    padding-top: 25px;
+}
+
+
+}
